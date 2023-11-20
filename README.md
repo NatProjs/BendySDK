@@ -6,7 +6,7 @@
 
 # Games Using BendySDK
 
-* Bendy and The Ink Machine: The Ink Rooms
+* Bendy and The Ink Machine: The Ink Rooms by BlitzDotCS (No link yet)
 
 # How to open
 
