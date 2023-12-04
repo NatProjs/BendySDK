@@ -2,11 +2,7 @@
 
 * A Bendy and The Ink Machine Fangame SDK/Template
 
-* If you use this credit me :) (also contact me so I can put you on the list below!!) (blitzdotcs on discord)
-
-# Games Using BendySDK
-
-* Bendy and The Ink Machine: The Ink Rooms by BlitzDotCS (No link yet)
+* If you use this credit me :) (also contact me so I can put you on the list below!!) (funkincrew on discord)
 
 # How to open
 
