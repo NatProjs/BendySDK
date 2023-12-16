@@ -2,7 +2,7 @@
 
 * A Bendy and The Ink Machine Fangame SDK/Template
 
-* If you use this credit me :) (also contact me so I can put you on the list below!!) (funkincrew on discord)
+* If you use this credit me :) (also contact me so I can put you on the list below!!) (blitzeroni_ on discord)
 
 # How to open
 
