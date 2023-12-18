@@ -16,7 +16,9 @@
 
 * Mobile Branch
 
-* Boris Companion?... (Maybe)
+* Consoles Branch (3DS (MAYBE), PsVita, and Nintendo Switch)
+
+* Boris Companion?... (Maybe, if I do decide to do this I'll pull it from the actual bendy source code.)
 
 * Bacon Soup Collecting
 
