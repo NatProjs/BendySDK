@@ -24,7 +24,7 @@
 
 # Credits
 
-* BlitzDotCS (me!) - SDK/Template.
+* Nat (me!) - SDK/Template.
 
 * Bendy and The Ink Machine Crew - Textures, Bendy, etc.
 
